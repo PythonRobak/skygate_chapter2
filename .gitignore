@@ -4,5 +4,5 @@
 env/
 tags
 .idea/
-.venv-skygate/
+venv-skygate/
 
